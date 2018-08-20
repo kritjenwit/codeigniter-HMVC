@@ -1,1 +1,1 @@
-# codeigniter-HMVC
+# codeigniter-HMVC : Ready to use
